@@ -46,7 +46,7 @@ class Home extends Component {
     super(props);
     this.state = {
       DanhSachGheDangDat: [],
-      SelectedGhe: null,
+      SelectedGhe: {},
     };
   }
 
